@@ -1,30 +1,14 @@
-# \# User Guide
+# User Guide
 
-# 
+This user guide helps users configure the system environment easily.  
+Users configure the environment settings using the system.
 
-# This user guide helps users configure the system environment easily.
+## Features
 
-# Users configure the environment settings using the system.
+- Simple configuration steps
+- Clear instructions for users
+- Automatic environment setup
 
-# 
+## Contact
 
-# \## Features
-
-# 
-
-# \- Simple configuration steps
-
-# \- Clear instructions for users
-
-# \- Automatic environment setup
-
-# 
-
-# \## Contact
-
-# 
-
-# For more information, contact the documentation team.
-
-# 
-
+For more information, contact the documentation team
