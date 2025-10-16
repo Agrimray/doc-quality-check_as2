@@ -2,7 +2,7 @@
 
 # 
 
-# This user guide helps users configure the system environment easily.  
+# This user guide helps users configure the system environment easily.
 
 # Users configure the environment settings using the system.
 
@@ -17,4 +17,14 @@
 # \- Clear instructions for users
 
 # \- Automatic environment setup
+
+# 
+
+# \## Contact
+
+# 
+
+# For more information, contact the documentation team.
+
+# 
 
